@@ -7,23 +7,35 @@
 
 | Matrícula |        Nome Completo       |
 |:---------:|:-------------:|
-| 202063201 | Ester Flores Lino da Silva |
-| 202042927 | Eduardo Schuindt Santos    |
+| 20/2063201 | Ester Flores Lino da Silva |
+| 20/2042927 | Eduardo Schuindt Santos    |
 
-## Definição do trabalho
+## Definição do Trabalho
 
-Para o Trabalho 1 a dupla optou por solucionar questões da plataforma **[LeetCode](https://leetcode.com/)**. Seguindo as orientações do professor Maurício Serrano, resolvemos 3 desafios. Dois do nível difícil e um do nível médio. Dessa maneira, a dupla busca demonstrar o conhecimento adquirido durante as aulas e estudos sobre o tema Grafos 1.
+Para o Trabalho 1 a dupla optou por solucionar questões da plataforma **[LeetCode](https://leetcode.com/)**. Seguindo as orientações do professor Maurício Serrano, resolvemos 4 desafios. Dois do nível difícil e dois do nível médio. Dessa maneira, a dupla busca demonstrar o conhecimento adquirido durante as aulas e estudos sobre o tema Grafos 1.
 
-Sobre a realização do trabalho, cada exercício contém seu código resposta, screenshots da tela de submissão do **[LeetCode](https://leetcode.com/)** e vídeo de até 5 minutos explicando objetivamente as resoluções porpostas.
+Sobre a realização do trabalho, cada exercício contém seu código resposta, screenshots da tela de submissão do **[LeetCode](https://leetcode.com/)** e vídeo de até 5 minutos explicando objetivamente as resoluções propostas.
 
 ## Linguagem utilizada
 
+A linguagem de programação utilizada para resolver cada exercício foi o Python.
+
 ## Screenshots
 
-### Exercício 01 - Difícil
+### Exercício 01 - Difícil - 1728. Cat and Mouse II
+
+![Screenshot do exercício 1728](assets)
 
 ### Exercício 02 - Difícil
 
-### Exercício 03 - Médio
+### Exercício 03 - Médio - 207. Course Schedule
+
+![Screenshot do exercício 207](assets/207_screenshot.png)
+
+### Exercício 04 - Médio
 
 ## Vídeo de apresentação do Trabalho 1
+
+## Verificação
+
+Para verificar se as resoluções aqui propostas estão corretas e foram aceitas, submeter os códigos no [LeetCode](https://leetcode.com/) e conferir se foi aceito ou não.
