@@ -1,9 +1,8 @@
 ''' 
-207.Course Schedule: https://leetcode.com/problems/course-schedule/description/
+1786. Number of Restricted Paths From First to Last Node: https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node
 Exercício resolvido por Ester Flores e Eduardo Schuindt
 
-Esse exercício foi resolvido utilizando DFS, Grafos direcionados acíclicos. Ordenação topológica e
-Algoritmo de Dijkstra
+Esse exercício foi resolvido utilizando DFS, Grafos direcionados acíclicos e Ordenação topológica
 '''
 
 # Importações da biblioteca padrão 
@@ -22,7 +21,7 @@ class Solution:
             grafo[u].append((v, peso))
             grafo[v].append((u, peso))
       
-        # Calcula as distâncias mais curtas de todos os nós até o nó 'n' usando o algoritmo de Dijkstra
+        # Calcula as distâncias mais curtas de todos os nós até o nó 'n' 
         distancia = [inf] * (n + 1)
         distancia[n] = 0
         fila_de_prioridade = [(0, n)]  # Formato: (distância, nó)
