@@ -5,7 +5,6 @@ Exercício resolvido por Ester Flores e Eduardo Schuindt
 Esse exercício pode ser resolvido utilizando BFS com ordenação topológica ou DFS.
 A nossa solução foi pensada utilizando BFS, já que o exercício pede que seja verificado 
 se todos os cursos foram feitos ou não.
-COMPLEXIDADE = O(V + E). V = número de vértices (numCourses); E = número de arestas (prerequisites).
 '''
 
 from collections import deque
@@ -19,7 +18,7 @@ class Solution:
     '''
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         '''
-        Aqui definimos o problema como um grafo direcionado, usando lista de adjacência.
+        Aqui definimos o problema como um grafo direcionado, usando lista de adjacências.
         Onde cada curso é um nó e cada pré-requisito é uma aresta direcionada [ai, bi].
         '''
         adjacency_graph = [[] for _ in range(numCourses)]
