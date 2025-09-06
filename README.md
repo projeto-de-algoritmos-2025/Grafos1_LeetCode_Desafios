@@ -22,9 +22,9 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Screenshots
 
-### Exercício 01 - Difícil - 1728. Cat and Mouse II
+### Exercício 01 - Difícil - 1568. Minimum Number of Days to Disconnect Island
 
-![Screenshot do exercício 1728](assets)
+![Screenshot do exercício 1568](assets/1568_screenshot.png)
 
 ### Exercício 02 - Difícil
 
@@ -38,4 +38,4 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Verificação
 
-Para verificar se as resoluções aqui propostas estão corretas e foram aceitas, submeter os códigos no [LeetCode](https://leetcode.com/) e conferir se foi aceito ou não.
+Para verificar se as resoluções aqui propostas estão corretas e foram aceitas, submeter os códigos no **[LeetCode](https://leetcode.com/)** e conferir se foi aceito ou não. Todo exercício contém o link para descrição do problema no seu próprio código de resolução.
