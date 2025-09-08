@@ -61,7 +61,7 @@ class Solution:
             Então, adicionamos esse curso à fila de cursos prontos para serem feitos.
             '''
             for next_course in adjacency_graph[current_course]:
-                grau_entrada[proximo_curso] -= 1
+                grau_entrada[next_course] -= 1
                 if grau_entrada[next_course] == 0:
                     ready_courses_queue.append(next_course)
         

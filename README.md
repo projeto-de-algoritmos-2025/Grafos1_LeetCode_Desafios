@@ -40,6 +40,8 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Vídeo de apresentação do Trabalho 1
 
+[Link de apresentação do Trabalho 1](https://www.youtube.com/watch?v=CXgF532n6Oc)
+
 ## Verificação
 
 Para verificar se as resoluções aqui propostas estão corretas e foram aceitas, submeter os códigos no **[LeetCode](https://leetcode.com/)** e conferir se foi aceito ou não. Todo exercício contém o link para descrição do problema no seu próprio código de resolução.
